@@ -10,7 +10,7 @@ Read [docs/01-product.md](docs/01-product.md) first. Everything else is in [docs
 
 ## Current milestone
 
-A demo for Startmate on a public Autodesk sample building: one Bluebeam-marked PDF with about 10 comms and security markups. See [docs/05-demo-and-tech.md](docs/05-demo-and-tech.md). Nothing is built yet and the stack is not locked.
+A demo for Startmate on a public Autodesk sample building: one Bluebeam-marked PDF with about 10 comms and security markups. See [docs/05-demo-and-tech.md](docs/05-demo-and-tech.md) and the build order in [docs/08-plan.md](docs/08-plan.md). Nothing is built yet. The first step is a one-week spike: one symbol on a PDF becomes one device, hosted on the right ceiling of a linked architectural model. The plan proposes a C# Revit add-in; confirm with the team before scaffolding.
 
 ## Hard rules
 

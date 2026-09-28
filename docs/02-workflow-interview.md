@@ -23,6 +23,14 @@ Earlier data point: in one week of September 2026, all 16 hours of Connor's work
 3. **Verification replaces the flick-through.** The tool hands the senior a list of every markup with what was done or why it was flagged, so nothing is missed.
 4. **Demo scope:** device markups (add, delete, move, swap type) with automatic finding and hosting. Risers and schedules stay out; they are not where the time goes.
 
+## More evidence (28 Sep 2026)
+
+- At Connor's previous firm (electrical), Connor and 5 other interns all did CAD for electrical designs, for many hours.
+- Many junior engineers Connor has spoken to describe the same problem.
+- One junior engineer's firm requires 2 years of CAD before a junior can progress.
+
+**What this shows:** the work is widespread and lands on juniors. **What it does not show yet:** that owners, who pay, want it gone. They may see those years of CAD as training, so ask them.
+
 ## Still to check
 
 - Do the seniors' tool chest symbols carry a Bluebeam Subject that names the device? If yes, decoding symbols is a lookup (the same kind of field MarkupX reads). If generic, the tool has to recognise the symbol's shape.

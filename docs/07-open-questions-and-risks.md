@@ -5,6 +5,10 @@
 - **Go:** tiers 1 and 2 are most of a markup set, and outsourcing is blocked by security or turnaround. The first half is met on Connor's estimate (about 90% spelled out). The second half is open.
 - **Kill:** tier 3 (judgement) dominates, or firms happily outsource. Then this is MarkupX with a chatbot.
 
+## The biggest gap (29 Sep 2026)
+
+Every junior engineer asked has the problem, so the work is clearly widespread. What nobody has confirmed yet is the buyer side: owners and senior engineers saying they want it gone and would pay. They may see years of junior CAD as training. Ask them before building past the demo (the 1 Nov gate in [08-plan.md](08-plan.md)).
+
 ## Open questions
 
 1. **Has the firm seen MarkupX?** If yes and not used, why not? Ask a senior engineer.
@@ -21,6 +25,8 @@
 3. **Pricing too low.** Per-seat plugin pricing (JustAsk is US$29/month) is too low; price per firm against hours saved.
 4. **Platform risk.** Autodesk (Revit 2027 assistant, a standalone agent in 2027) or Bluebeam could close the loop. Autodesk has also said Forma will replace Revit "over time".
 5. **Adoption.** Engineers must use the standard symbols. Firms already standardising is the answer, and the "why now".
+6. **Owners see junior CAD as training.** Ask owners early. Juniors still learn the standards by checking every change instead of drawing it.
+7. **Licences and IP.** Build on Autodesk Developer Network development licences, not education licences, and check founders' employment contracts for IP clauses.
 
 ## Hard rules
 

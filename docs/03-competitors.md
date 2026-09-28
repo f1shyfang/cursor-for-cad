@@ -4,7 +4,35 @@ First checked 26 Sep 2026. The top 3 were re-checked on their own sites and docs
 
 **Summary:** nobody found ships batch execution of a full set of PDF markups made by other people, with verification. Every neighbouring piece exists, and the gap is likely to close within one or two years.
 
-## Top 3
+## The gorilla: the status quo
+
+Our primary competitor is the firm's existing markup routine: a senior redlines the PDF in Bluebeam, then a junior opens Revit and makes every change by hand, markup by markup, while the senior checks by flicking through the new PDFs. Put simply: junior engineers redrawing markups themselves.
+
+**What customers do today, when they feel the pain**
+
+- A senior engineer redlines the drawing set in Bluebeam, using symbols, clouds and notes.
+- A junior engineer or intern works through it one markup at a time in Revit.
+- Each markup takes about 20 minutes: work out what the senior meant, find the spot in the model, place or change the part, and fit it to the right wall or ceiling.
+- The senior flicks through the new PDFs against their markups to check nothing was missed.
+- One firm makes juniors do 2 years of CAD like this before they can progress.
+
+**Why it is hard to beat**
+
+- It's already paid for: juniors are on salary anyway.
+- Firms see it as training, because juniors learn the standards by drafting.
+- It's trusted: a person made every change.
+- No new software, no setup, no risk.
+
+**How we beat it**
+
+- Same routine, minus the redrawing: seniors still mark up in Bluebeam, and juniors approve changes instead of making them.
+- Days of drafting become hours of checking.
+- Juniors still learn the standards, by checking every change instead of drawing it.
+- Nothing leaves the office, and an engineer approves every change, so the firm keeps control.
+
+**Other alternatives:** offshore drafting (about US$55 a sheet, but the firm loses control of its drawings, and secure government projects may not allow it); hiring another drafter (about A$75k a year, and still manual); the senior engineer doing it themselves in offices without juniors. Competing tools are below.
+
+## Top 3 competing tools
 
 ### 1. MarkupX Pro: the direct competitor
 

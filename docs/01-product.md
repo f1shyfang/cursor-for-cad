@@ -13,7 +13,24 @@ Evidence so far (details in [02-workflow-interview.md](02-workflow-interview.md)
 - Connor spent all 16 hours of one work week in September 2026 completing markups at an electrical comms and security firm, and did the same work at a previous electrical firm.
 - Usually under 50 markups a week, so about 20 minutes each. About 90% say exactly what to do (estimate).
 - Both firms were standardising their drawing elements at the time.
+- At the previous firm, 6 interns (Connor included) did CAD for electrical designs. Many junior engineers describe the same problem, and one firm requires 2 years of CAD before a junior can progress.
 - Both data points are electrical engineering firms, so "widespread across disciplines" is not shown yet.
+
+### Obstacles (Startmate Miro, 29 Sep 2026)
+
+> Every time a senior engineer returns a marked-up drawing set, a junior engineer at a small electrical engineering firm has to redo every markup by hand in Revit, one at a time. They work out what the senior meant, find the spot in the 3D model, then place or change the device and fit it to the right wall or ceiling at the right height. It takes about 20 minutes per markup and whole days per set, and the senior then flicks through every sheet to check nothing was missed.
+
+- **Who to call:** owners and senior engineers at small electrical engineering firms who mark up drawings, and the junior engineers and drafters who complete them.
+- **Workflow:** turning a senior's Bluebeam markups into Revit changes before the drawings are issued.
+- **Constraint:** every change must follow the firm's own families and standards, and the drawings stay in-house, especially on secure government projects.
+- **What they do now:** juniors redraw each markup by hand, and seniors check by eye.
+- **Consequence:** juniors spend weeks drafting instead of engineering, and seniors lose time checking.
+
+### Drivers: why firms would switch
+
+> Firms will switch because markups eat whole weeks of junior engineering time. One of us spent all 16 hours of a work week on them, and one firm had six interns doing CAD. So firms pay engineering salaries for work that's nine-tenths mechanical. Every revision turns into days of drafting before drawings can be issued, and seniors lose more time checking each sheet by eye. Juniors' first years (two of them, at one firm) go on redrawing instead of engineering.
+
+It is not just faster drafting. It affects salary costs, how fast drawings go out, senior engineers' time, and how quickly juniors become engineers. Still to confirm with owners: that this is in their top 5 problems, and whether it affects hiring and keeping graduates.
 
 ## How it works
 
