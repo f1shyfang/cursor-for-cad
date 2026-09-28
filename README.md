@@ -6,7 +6,7 @@ Software that completes the work engineers' drawing markups ask for. Engineers m
 
 ## The problem
 
-Senior engineers redline drawing sets in Bluebeam. Someone then makes every change in Revit by hand: placing, removing and changing devices, hosting each one on the right wall or ceiling, and following the firm's families and conventions. In Connor's own job (electrical comms and security), that took all 16 hours of one work week in September 2026, at about 20 minutes per markup. About 90% of the markups said exactly what to do (his estimate). The time goes on translating each markup into the model, not on judgement.
+Senior engineers redline drawing sets in Bluebeam. Someone then makes every change in Revit by hand: placing, removing and changing devices, hosting each one on the right wall or ceiling, and following the firm's families and conventions. In Connor's own job (electrical comms and security), that took all 16 hours of one work week in September 2026, at about 20 minutes per markup. About 90% of the markups said exactly what to do (Connor's estimate). The time goes on translating each markup into the model, not on judgement.
 
 ## Docs
 

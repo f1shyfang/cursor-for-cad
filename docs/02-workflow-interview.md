@@ -1,6 +1,6 @@
 # Workflow interview (28 Sep 2026)
 
-Connor's answers about completing markups in his own job at an electrical comms and security engineering firm that works on secure government buildings. Estimates, not counts. No drawings or project details are recorded here, on purpose.
+Connor's answers about completing markups at work, at an electrical comms and security engineering firm that works on secure government buildings. Estimates, not counts. No drawings or project details are recorded here, on purpose.
 
 ## Answers
 
@@ -14,7 +14,7 @@ Connor's answers about completing markups in his own job at an electrical comms 
 | Judgement markups | About 10% |
 | How it is checked | The senior flicks through the new PDFs against their markups |
 
-Earlier data point: in one week of September 2026, all 16 hours of Connor's work week went on completing markups. The same work existed at his previous firm, also electrical.
+Earlier data point: in one week of September 2026, all 16 hours of Connor's work week went on completing markups. The same work existed at Connor's previous firm, also electrical.
 
 ## What it means
 
